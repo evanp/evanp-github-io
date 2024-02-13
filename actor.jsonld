@@ -4,6 +4,12 @@
   "type": "Person",
   "name": "Evan Prodromou",
   "preferredUsername": "evanp",
+  "summary": "I'm a software developer interested in decentralized social networks, web standards, and open source software.",
+  "icon": {
+    "type": "Link",
+    "mediaType": "image/png",
+    "href": "https://evanp.github.io/evanp.png"
+  },
   "inbox": "https://evanp.github.io/inbox.jsonld",
   "outbox": "https://evanp.github.io/outbox.jsonld",
   "following": "https://evanp.github.io/following.jsonld",
