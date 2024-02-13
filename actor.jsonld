@@ -7,8 +7,8 @@
   "summary": "I'm a software developer interested in decentralized social networks, web standards, and open source software.",
   "icon": {
     "type": "Link",
-    "mediaType": "image/png",
-    "href": "https://evanp.github.io/evanp.png"
+    "mediaType": "image/jpeg",
+    "href": "https://evanp.github.io/evanp.jpg"
   },
   "inbox": "https://evanp.github.io/inbox.jsonld",
   "outbox": "https://evanp.github.io/outbox.jsonld",
