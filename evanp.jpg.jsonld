@@ -1,4 +1,5 @@
 {
+  "@context": "https://www.w3.org/ns/activitystreams",
   "type": "Image",
   "id": "https://evanp.github.io/evanp.jpg.jsonld",
   "mediaType": "image/jpeg",
